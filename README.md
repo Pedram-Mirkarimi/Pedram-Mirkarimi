@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Pedram%20Mirkarimi&fontSize=80&animation=fadeIn&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Back-End%20Developer&descAlignY=60&descSize=30&section=header&fontSize=90)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Back-End%20Developer&descAlignY=60&descSize=30&section=header&fontSize=90" />
 </div>
 
 <!-- Animated Typing SVG -->
