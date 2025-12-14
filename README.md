@@ -4,7 +4,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together)" />
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </p>
 
 ---
