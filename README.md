@@ -3,8 +3,9 @@
 </div>
 
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" />
 </p>
+
 ---
 
 <br>
@@ -13,6 +14,7 @@
 - 🔭 Currently improving my **JavaScript** and **Backend** skills
 - 🌱 Learning **Node.js**, **APIs**, and modern web development
 - 🎯 Goal: Become a strong Full-Stack JS developer
+
 ---
 
 <br>
@@ -24,6 +26,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mongodb,mysql,git,github,npm,postman,vscode" />
   </a>
 </p>
+
 ---
 
 <br>
@@ -57,6 +60,7 @@ Minimal web server written in JavaScript.
 Responsive template built with HTML/CSS/JS.
 
 👉 *Check them in my pinned repositories!*
+
 ---
 
 <br>
@@ -67,6 +71,7 @@ Responsive template built with HTML/CSS/JS.
   <img src="https://github-readme-stats.vercel.app/api?username=Pedram-Mirkarimi&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedram-Mirkarimi&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 </p>
+
 ---
 
 <br>
@@ -75,6 +80,7 @@ Responsive template built with HTML/CSS/JS.
 
 - Email: **mirkarimi.amirmohammad@gmail.com**
 - Portfolio Website: *coming soon*
+
 ---
 
 <br>
