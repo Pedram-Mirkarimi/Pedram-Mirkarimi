@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Back-End%20Developer&descAlignY=60&descSize=30&section=header&fontSize=90" />
 </div>
 
-<p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" />
-</p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" alt="Typing SVG" /></a>
+</div>
 
 ---
 
