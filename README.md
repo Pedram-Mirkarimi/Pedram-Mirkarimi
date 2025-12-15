@@ -9,11 +9,11 @@
 </br>
 
 ## 👨‍💻 About Me
+
 - 🔭 Currently improving my **JavaScript** and **Backend** skills
 - 🌱 Learning **Node.js**, **APIs**, and modern web development
 - 🎯 Goal: Become a strong Full-Stack JS developer
 
----
 
 ## 🛠️ Tech Stack
 
@@ -23,12 +23,10 @@
   </a>
 </p>
 
----
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 Here are a few projects that showcase my skills:
-
 | Project                          | Description                                                                                                               | Key Technologies                     | Link                                                                     |
 | :------------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :----------------------------------- | :----------------------------------------------------------------------- |
 | 💬 **Real-time Chat App**        | A real-time chat application built with WebSockets, enabling instant bi-directional communication between users.          | `Node.js`, `Socket.IO`, `JavaScript` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Chat-App)                  |
@@ -38,9 +36,7 @@ Here are a few projects that showcase my skills:
 | 📚 **Library Management System** | A basic library management system for adding, removing, and managing books, demonstrating core CRUD operations.           | `C#`                                 | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Library-Management-System) |
 | 🌐 **Simple Website Template**   | A clean and minimal static website template suitable for small projects or landing pages.                                 | `HTML`, `CSS`                        | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Simple-Website-Template)   |
 
-👉 *Check them in my pinned repositories!*
 
----
 
 ## 📊 GitHub Stats
 
