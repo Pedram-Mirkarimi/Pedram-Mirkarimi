@@ -6,14 +6,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" alt="Typing SVG" /></a>
 </div>
 
-</br>
-
 ## 👨‍💻 About Me
 
 - 🔭 Currently improving my **JavaScript** and **Backend** skills
 - 🌱 Learning **Node.js**, **APIs**, and modern web development
 - 🎯 Goal: Become a strong Full-Stack JS developer
-
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +23,6 @@
 
 ## 📌 Featured Projects
 
-Here are a few projects that showcase my skills:
 | Project                          | Description                                                                                                               | Key Technologies                     | Link                                                                     |
 | :------------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :----------------------------------- | :----------------------------------------------------------------------- |
 | 💬 **Real-time Chat App**        | A real-time chat application built with WebSockets, enabling instant bi-directional communication between users.          | `Node.js`, `Socket.IO`, `JavaScript` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Chat-App)                  |
@@ -35,7 +31,6 @@ Here are a few projects that showcase my skills:
 | 🗒️ **Notes App**                 | A simple and efficient command-line interface (CLI) application for managing your notes directly from the terminal.        | `JavaScript`, `HTML`, `CSS`          | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Notes-App)                 |
 | 📚 **Library Management System** | A basic library management system for adding, removing, and managing books, demonstrating core CRUD operations.           | `C#`                                 | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Library-Management-System) |
 | 🌐 **Simple Website Template**   | A clean and minimal static website template suitable for small projects or landing pages.                                 | `HTML`, `CSS`                        | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Simple-Website-Template)   |
-
 
 
 ## 📊 GitHub Stats
@@ -48,5 +43,5 @@ Here are a few projects that showcase my skills:
 ---
 
 <p align="center">
- ⭐️ *Thanks for visiting my GitHub profile!*  
+ ⭐️Thanks for visiting my GitHub profile!⭐️
 </p>
