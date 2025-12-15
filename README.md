@@ -29,27 +29,14 @@
 
 Here are a few projects that showcase my skills:
 
-| Project | Description | Key Technologies | Link |
-| :--- | :--- | :--- | :--- |
-| 💼 **Jobs API** | A complete RESTful API for managing job postings, featuring user authentication (JWT), password encryption, and full CRUD operations. | `Node.js`, `Express`, `MongoDB` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Jobs-API) |
-| 📝 **Task Manager API** | A comprehensive API for a task manager application, allowing users to securely create, read, update, and delete their tasks. | `Node.js`, `Express`, `MongoDB` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Task-Manager-API) |
-| 💬 **Real-time Chat App** | A real-time chat application built from scratch with WebSockets, enabling instant bi-directional communication between users. | `Node.js`, `Socket.IO`, `JavaScript` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Chat-App) |
-
-
-### 💬 Chat-App  
-Real-time messaging app using JS & DOM features.
-
-### 📝 Notes-App  
-A simple note management tool with clean UI.
-
-### 🗂 Task-Manager  
-To-do app for tasks & productivity.
-
-### 🌐 Web-Server  
-Minimal web server written in JavaScript.
-
-### 🎨 Website-Template  
-Responsive template built with HTML/CSS/JS.
+| Project                          | Description                                                                                                               | Key Technologies                     | Link                                                                     |
+| :------------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :----------------------------------- | :----------------------------------------------------------------------- |
+| 🗒️ **Notes App**                | A simple browser-based notes application that allows users to create, edit, and delete notes with a clean user interface. | `JavaScript`, `HTML`, `CSS`          | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Notes-App)                 |
+| 🌦️ **Weather Web Server**       | A web application that fetches and displays real-time weather data using a public weather API.                            | `JavaScript`, `HTML`, `CSS`          | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Weather-Web-Server)        |
+| 📚 **Library Management System** | A basic library management system for adding, removing, and managing books, demonstrating core CRUD operations.           | `C#`                                 | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Library-Management-System) |
+| 🌐 **Simple Website Template**   | A clean and minimal static website template suitable for small projects or landing pages.                                 | `HTML`, `CSS`                        | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Simple-Website-Template)   |
+| 📝 **Task Manager API**          | A RESTful API that allows users to securely create, read, update, and delete tasks with authentication.                   | `Node.js`, `Express`, `MongoDB`      | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Task-Manager-API)          |
+| 💬 **Real-time Chat App**        | A real-time chat application built with WebSockets, enabling instant bi-directional communication between users.          | `Node.js`, `Socket.IO`, `JavaScript` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Chat-App)                  |
 
 👉 *Check them in my pinned repositories!*
 
