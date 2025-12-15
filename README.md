@@ -53,12 +53,7 @@ Here are a few projects that showcase my skills:
 
 ## 📫 Contact Me
 
-<p align="center">
-  - E-Mail: **mirkarimi.amirmohammad@gmail.com**
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+- E-Mail: **mirkarimi.amirmohammad@gmail.com**
 
 ---
 
