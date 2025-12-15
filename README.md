@@ -54,7 +54,12 @@ Here are a few projects that showcase my skills:
 ## 📫 Contact Me
 
 - Email: **mirkarimi.amirmohammad@gmail.com**
-- Portfolio Website: *coming soon*
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i="instagram,twitter,gmail />
+  </a>
+</p>
 
 ---
 
