@@ -1,41 +1,81 @@
-# Hi, I’m AmirMohammad Mirkarimi 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=FIAE%20Ausbildung%20Applicant%20(08%2F2026)&descAlignY=60&descSize=30&section=header&fontSize=90" />
+  
+**FIAE Ausbildung Applicant (ab 08/2026)** — learning-focused repos for **Web/Backend fundamentals** with **Node.js**.
 
-💡 **Goal (2026):** Applying for an **Ausbildung (FIAE – Application Development)** in Germany (**start from 08/2026**).  
-🧩 Most repos here are **learning/practice projects** (Lern-/Übungsprojekte) while I build solid fundamentals.
+![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Practice-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Practice-47A248?logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?logo=javascript&logoColor=000)
+![Git](https://img.shields.io/badge/Git-Workflow-F05032?logo=git&logoColor=white)
 
----
-
-## 🇩🇪 Kurz auf Deutsch
-- 🎓 Bewerbung für **Ausbildung FIAE** (Start: **ab 08/2026**)
-- 🛠️ Lernfokus: **JavaScript**, **Node.js**, **MongoDB/SQL**, **Git**
-- 🗣️ Deutsch: **telc B2**
-
-## 🇬🇧 Short in English
-- 🎓 Applying for an **FIAE apprenticeship (Ausbildung)** (start: **from 08/2026**)  
-- 🛠️ Learning focus: **JavaScript**, **Node.js**, **MongoDB/SQL**, **Git**  
-- 🗣️ German: **telc B2**
+</div>
 
 ---
 
-## 🚀 Featured learning projects
-> (See pinned repositories for the main projects)
+## 🧭 About
 
-- **taskflow-api** — Practice REST API for task management (login/CRUD, filters)
-- **pulsechat** — Practice realtime chat (login, group chat)
-- **weathernow-web** — Weather web app using external APIs (Mapbox/OpenWeather)
+- 🎓 Applying for an **Ausbildung as Fachinformatiker/in für Anwendungsentwicklung (FIAE)** — **start from 08/2026**
+- 🔭 Building **learning/practice projects** with **Node.js / Express**
+- 🌱 Improving **REST APIs**, **MongoDB/SQL**, and **project structure**
+- ✅ I like projects that are **clean, practical, and easy to run**
 
----
-
-## 🧰 Tech I’m learning
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-black?logo=database)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+> Note: Most repositories are **Lern-/Übungsprojekte** created for learning and practice.
 
 ---
 
-## 📫 Contact
-- Email: **mirkarimi.amirmohammad@gmail.com**
+## 🧰 Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,html,css,git,github,npm,postman,vscode" />
+  </a>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> Selected **learning projects** with clear setup instructions.
+
+### ⭐ Project Highlights
+
+| Project | What it is | Key Tech | Repo |
+|---|---|---|---|
+| 💬 **PulseChat** | Learning project: realtime chat (login, group chat) | `Node.js`, `Express`, `Socket.io`, `MongoDB` | 🔗 https://github.com/Pedram-Mirkarimi/pulsechat |
+| ✅ **taskflow-api** | Learning project: task manager REST API (login/CRUD, filters) | `Node.js`, `Express`, `MongoDB` | 🔗 https://github.com/Pedram-Mirkarimi/taskflow-api |
+| 🌤️ **weathernow-web** | Learning project: weather web app using external APIs | `Node.js`, `Express`, `Mapbox`, `OpenWeather` | 🔗 https://github.com/Pedram-Mirkarimi/weathernow-web |
+
+---
+
+## 📦 More Projects
+
+| Project | What it is | Repo |
+|---|---|---|
+| 🗒️ **notecli** | Learning project: command-line notes manager | 🔗 https://github.com/Pedram-Mirkarimi/notecli |
+| 🌐 **cleanlanding-template** | Responsive static landing page template | 🔗 https://github.com/Pedram-Mirkarimi/cleanlanding-template |
+| 📚 **libradesk** | Desktop library management system (C# WinForms) | 🔗 https://github.com/Pedram-Mirkarimi/libradesk |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedram-Mirkarimi&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedram-Mirkarimi&layout=compact&hide_border=true&theme=tokyonight" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pedram-Mirkarimi&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+---
+
+## 🤝 Contact
+
+- Email: mirkarimi.amirmohammad@gmail.com
+- GitHub: https://github.com/Pedram-Mirkarimi
+
+<div align="center">
+⭐️ Thanks for visiting my GitHub profile ⭐️
+</div>
