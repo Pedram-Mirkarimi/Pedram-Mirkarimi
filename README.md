@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=FIAE%20Ausbildung%20Applicant%20(08%2F2026)&descAlignY=60&descSize=30&section=header&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Ausbildung%20(FIAE)%20Applicant%20%E2%80%94%20Start%2008%2F2026&descAlignY=60&descSize=30&section=header&fontSize=90" />
   
-**FIAE Ausbildung Applicant (ab 08/2026)** — learning-focused repos for **Web/Backend fundamentals** with **Node.js**.
+**Ausbildung (FIAE) applicant (from 08/2026)** — learning-focused repos for **Web/Backend basics** with **Node.js**.
 
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-Practice-000000?logo=express&logoColor=white)
@@ -20,7 +20,7 @@
 - 🌱 Improving **REST APIs**, **MongoDB/SQL**, and **project structure**
 - ✅ I like projects that are **clean, practical, and easy to run**
 
-> Note: Most repositories are **Lern-/Übungsprojekte** created for learning and practice.
+> Note: Most repositories are **learning/practice projects** (Lern-/Übungsprojekte).
 
 ---
 
@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,html,css,git,github,npm,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,html,css,git,github" />
   </a>
 </div>
 
@@ -42,19 +42,9 @@
 
 | Project | What it is | Key Tech | Repo |
 |---|---|---|---|
-| 💬 **PulseChat** | Learning project: realtime chat (login, group chat) | `Node.js`, `Express`, `Socket.io`, `MongoDB` | 🔗 https://github.com/Pedram-Mirkarimi/pulsechat |
+| 💬 **pulsechat** | Learning project: realtime chat (login, group chat) | `Node.js`, `Express`, `Socket.io`, `MongoDB` | 🔗 https://github.com/Pedram-Mirkarimi/pulsechat |
 | ✅ **taskflow-api** | Learning project: task manager REST API (login/CRUD, filters) | `Node.js`, `Express`, `MongoDB` | 🔗 https://github.com/Pedram-Mirkarimi/taskflow-api |
 | 🌤️ **weathernow-web** | Learning project: weather web app using external APIs | `Node.js`, `Express`, `Mapbox`, `OpenWeather` | 🔗 https://github.com/Pedram-Mirkarimi/weathernow-web |
-
----
-
-## 📦 More Projects
-
-| Project | What it is | Repo |
-|---|---|---|
-| 🗒️ **notecli** | Learning project: command-line notes manager | 🔗 https://github.com/Pedram-Mirkarimi/notecli |
-| 🌐 **cleanlanding-template** | Responsive static landing page template | 🔗 https://github.com/Pedram-Mirkarimi/cleanlanding-template |
-| 📚 **libradesk** | Desktop library management system (C# WinForms) | 🔗 https://github.com/Pedram-Mirkarimi/libradesk |
 
 ---
 
