@@ -5,8 +5,6 @@
 <br/>
 <i>Most repositories are learning/practice projects (Lern-/Übungsprojekte).</i>
 
-<br/>
-
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-Practice-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Practice-47A248?logo=mongodb&logoColor=white)
