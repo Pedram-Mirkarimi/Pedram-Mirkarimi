@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=S.%20AmirMohammad%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Ausbildung%20(FIAE)%20Applicant%20%E2%80%94%20Start%20ab%2008%2F2026&descAlignY=60&descSize=28&section=header&fontSize=60" />
 
-<b>Ausbildung (FIAE) applicant (from 08/2026)</b> — learning-focused repos for <b>Web/Backend basics</b> with <b>Node.js</b>.
+<b>Ausbildung (FIAE) applicant — Start: ab 08/2026</b> — learning projects for <b>Web/Backend basics</b> with <b>Node.js</b>.
 <br/>
-<i>Most repositories are learning/practice projects (Lern-/Übungsprojekte).</i>
+<i>Most repositories are Lern-/Übungsprojekte (learning/practice projects).</i>
 
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-Practice-000000?logo=express&logoColor=white)
@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-  SQL (basic) • REST APIs • Learning-focused projects
+  Basic SQL • REST APIs • Learning-focused projects
 </p>
 
 ---
@@ -52,7 +52,7 @@
 |---|---|---|
 | 🗒️ **notecli** | Learning project: CLI notes manager | 🔗 https://github.com/Pedram-Mirkarimi/notecli |
 | 🌐 **cleanlanding-template** | Responsive static landing page template | 🔗 https://github.com/Pedram-Mirkarimi/cleanlanding-template |
-| 📚 **libradesk** | Desktop library system (C# WinForms + SQL Server) | 🔗 https://github.com/Pedram-Mirkarimi/libradesk |
+| 📚 **libradesk** | Older learning project (C# WinForms + SQL Server) | 🔗 https://github.com/Pedram-Mirkarimi/libradesk |
 
 </details>
 
@@ -60,3 +60,4 @@
 
 ## 🤝 Contact
 - Email: **mirkarimi.amirmohammad@gmail.com**
+- GitHub: **https://github.com/Pedram-Mirkarimi**
