@@ -41,18 +41,18 @@
 
 | Project | What it is | Repo |
 |---|---|---|
-| ✅ **taskflow-api** | Learning project: task manager REST API | 🔗 https://github.com/Pedram-Mirkarimi/taskflow-api |
-| 💬 **pulsechat** | Learning project: realtime chat (group chat) | 🔗 https://github.com/Pedram-Mirkarimi/pulsechat |
-| 🌤️ **weathernow-web** | Learning project: weather web app using external APIs | 🔗 https://github.com/Pedram-Mirkarimi/weathernow-web |
+| ✅ **taskflow-api** | Learning project: task manager REST API | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/taskflow-api |
+| 💬 **pulsechat** | Learning project: realtime chat (group chat) | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/pulsechat |
+| 🌤️ **weathernow-web** | Learning project: weather web app using external APIs | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/weathernow-web |
 
 <details>
 <summary><b>More projects</b></summary>
 
 | Project | What it is | Repo |
 |---|---|---|
-| 🗒️ **notecli** | Learning project: CLI notes manager | 🔗 https://github.com/Pedram-Mirkarimi/notecli |
-| 🌐 **cleanlanding-template** | Responsive static landing page template | 🔗 https://github.com/Pedram-Mirkarimi/cleanlanding-template |
-| 📚 **libradesk** | Older learning project (C# WinForms + SQL Server) | 🔗 https://github.com/Pedram-Mirkarimi/libradesk |
+| 🗒️ **notecli** | Learning project: CLI notes manager | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/notecli |
+| 🌐 **cleanlanding-template** | Responsive static landing page template | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/cleanlanding-template |
+| 📚 **libradesk** | Older learning project (C# WinForms + SQL Server) | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/libradesk |
 
 </details>
 
@@ -60,4 +60,4 @@
 
 ## 🤝 Contact
 - Email: **mirkarimi.amirmohammad@gmail.com**
-- GitHub: **https://github.com/Pedram-Mirkarimi**
+- GitHub: **https://github.com/S-AmirMohammad-Mirkarimi**
