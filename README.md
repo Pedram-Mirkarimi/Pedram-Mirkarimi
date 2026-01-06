@@ -1,63 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=S.%20AmirMohammad%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Ausbildung%20(FIAE)%20Applicant%20%E2%80%94%20Start%20ab%2008%2F2026&descAlignY=60&descSize=28&section=header&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=S.%20AmirMohammad%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Ausbildung%20(FIAE)%20Applicant&descAlignY=60&descSize=28&section=header&fontSize=60" />
 
-<b>Ausbildung (FIAE) applicant — Start: ab 08/2026</b> — learning projects for <b>Web/Backend basics</b> with <b>Node.js</b>.
-<br/>
-<i>Most repositories are Lern-/Übungsprojekte (learning/practice projects).</i>
-
-![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-Practice-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Practice-47A248?logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/Git-Workflow-F05032?logo=git&logoColor=white)
+**Portfolio projects for Ausbildung (Fachinformatiker für Anwendungsentwicklung)**<br/>
+Focus: clean, readable code • learning-by-building • practical web & backend fundamentals
 </div>
 
 ---
 
-## 🧭 About
-- 🎓 Applying for an **Ausbildung as Fachinformatiker/in für Anwendungsentwicklung (FIAE)** — **start from 08/2026**
-- 🧩 Building **learning/practice projects** with **Node.js / Express**
-- 🌱 Improving **REST APIs**, **MongoDB/SQL**, and **project structure**
-- 🗣️ German: **telc B2** (workplace & Berufsschule)
+## 🔎 About Me
+- 🎯 Goal: Start an **Ausbildung as Fachinformatiker für Anwendungsentwicklung** in Germany
+- 🧩 I enjoy building small-to-medium projects end-to-end (from idea → code → documentation)
+- ✅ I keep projects **portfolio-friendly** (clear README, simple setup, no “enterprise/production” claims)
 
 ---
 
-## 🧰 Core stack (learning focus)
-
+## 🧰 Tech I Use (in my projects)
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,git,github,vscode" />
-  </a>
+  <p>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=000">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white">
+    <img alt="Express" src="https://img.shields.io/badge/Express-API-000000?logo=express&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white">
+    <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-ODM-4d0000">
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-Auth-111111?logo=jsonwebtokens&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white">
+  </p>
 </div>
-
-<p align="center">
-  Basic SQL • REST APIs • Learning-focused projects
-</p>
-
----
-
-## 🚀 Featured learning projects
-> Start with the pinned repositories.
-
-| Project | What it is | Repo |
-|---|---|---|
-| ✅ **taskflow-api** | Learning project: task manager REST API | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/taskflow-api |
-| 💬 **pulsechat** | Learning project: realtime chat (group chat) | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/pulsechat |
-| 🌤️ **weathernow-web** | Learning project: weather web app using external APIs | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/weathernow-web |
 
 <details>
-<summary><b>More projects</b></summary>
-
-| Project | What it is | Repo |
-|---|---|---|
-| 🗒️ **notecli** | Learning project: CLI notes manager | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/notecli |
-| 🌐 **cleanlanding-template** | Responsive static landing page template | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/cleanlanding-template |
-| 📚 **libradesk** | Older learning project (C# WinForms + SQL Server) | 🔗 https://github.com/S-AmirMohammad-Mirkarimi/libradesk |
-
+  <summary><b>Also familiar with</b></summary>
+  <p align="center">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-Desktop%20App-4d004d?logo=csharp&logoColor=white">
+    <img alt=".NET Framework" src="https://img.shields.io/badge/.NET-Framework-512BD4?logo=dotnet&logoColor=white">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?logo=microsoftsqlserver&logoColor=white">
+    <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-Realtime-010101?logo=socketdotio&logoColor=white">
+  </p>
 </details>
 
 ---
 
+## 🚀 Featured Projects (pinned)
+
+| Project | What it is | Key Tech | Repo |
+|---|---|---|---|
+| ✅ **TaskFlow API** | Task manager REST API with auth and user-scoped tasks | `Node.js`, `Express`, `MongoDB`, `JWT` | 🔗 <a href="https://github.com/S-AmirMohammad-Mirkarimi/taskflow-api">Repo</a> |
+| 🌤️ **WeatherNow Web** | Weather search web app (address → forecast) | `Node.js`, `Express`, `hbs`, `APIs` | 🔗 <a href="https://github.com/S-AmirMohammad-Mirkarimi/weathernow-web">Repo</a> |
+| 🗒️ **NoteCLI** | Command-line notes manager (local JSON storage) | `Node.js`, `yargs`, `chalk` | 🔗 <a href="https://github.com/S-AmirMohammad-Mirkarimi/notecli">Repo</a> |
+
+> More projects are available in my repositories!
+
+---
+
 ## 🤝 Contact
-- Email: **mirkarimi.amirmohammad@gmail.com**
-- GitHub: **https://github.com/S-AmirMohammad-Mirkarimi**
+
+- E-Mail: mirkarimi.amirmohammad@gmail.com
+- GitHub: https://github.com/S-AmirMohammad-Mirkarimi
+
+<p align="center">
+  <sub>⭐️ Thanks for visiting my profile ⭐️</sub>
+</p>
